@@ -21,3 +21,4 @@ ttf-meslo
 vde2
 ttf-google-fonts-git
 betterbird-de-bin
+octopi
