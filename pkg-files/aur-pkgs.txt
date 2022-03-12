@@ -1,9 +1,9 @@
 --END OF MINIMAL INSTALL--
 autojump
-brave-bin
+google-chrome
+onlyoffice-bin
 bridge-utils
 dxvk-bin
-github-desktop-bin
 lightly-git
 lightlyshaders-git
 mangohud
@@ -19,4 +19,5 @@ sddm-nordic-theme-git
 snapper-gui-git
 ttf-meslo
 vde2
-zoom
+ttf-google-fonts-git
+betterbird-de-bin
