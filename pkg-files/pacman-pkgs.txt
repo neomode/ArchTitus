@@ -62,6 +62,7 @@ lutris
 lzop
 m4
 make
+mc
 neofetch
 ntfs-3g
 ntp
