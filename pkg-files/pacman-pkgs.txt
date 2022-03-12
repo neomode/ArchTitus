@@ -42,6 +42,8 @@ flex
 fuse2
 fuse3
 fuseiso
+firefox
+firefox-i18n-de
 gamemode
 gcc
 gimp
